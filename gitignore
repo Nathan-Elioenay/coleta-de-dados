@@ -1,0 +1,7 @@
+# Arquivos gerados automaticamente pelo Code::Blocks
+*.o
+*.exe
+*.layout
+*.depend
+bin/
+obj/
